@@ -1,0 +1,35 @@
+#logo-span {
+    margin-left: 50px;
+}
+
+span.logo {
+    margin-left: 100px;
+}
+
+.navbar .navbar-brand img {
+    max-width: 63px;
+}
+
+.fixed-top {
+    background-color: rgba(255,255,255,0.5);
+}
+
+.tek-red {
+    color: #de0000;
+}
+
+.rock-grey {
+    color: #555555;
+}
+
+#footer-logo-span img {
+    max-height: 64px;
+}
+
+.footer-logo .navbar-brand {
+    font-size: 23px;
+}
+
+.footer-logo .navbar-brand p {
+    font-size: 15px;
+}
