@@ -29,8 +29,8 @@
             </div>
 
             <div class="col-lg-4 col-md-6 item mt-lg-0 mt-4">
-                <a href="assets/images/projecti.jpeg" data-lightbox="example-set" data-title="Project 3" class="zoom d-block">
-                    <img class="card-img-bottom d-block" src="assets/images/ac.jpeg" style="width: 547px;"
+                <a href="assets/images/x1.jpeg" data-lightbox="example-set" data-title="Project 3" class="zoom d-block">
+                    <img class="card-img-bottom d-block" src="assets/images/x1.jpeg" style="max-height: 374px;"
                          alt="Card image cap">
                     <span class="overlay__hover"></span> 
                     <span class="hover-content">
@@ -64,8 +64,8 @@
             </div>
 
             <div class="col-lg-4 col-md-6 item mt-4 pt-lg-2">
-                <a href="assets/images/c6.jpg" data-lightbox="example-set" data-title="Project 6" class="zoom d-block">
-                    <img class="card-img-bottom d-block" src="assets/images/project6.jpg" style="max-height: 372px;"
+                <a href="assets/images/x2.jpeg" data-lightbox="example-set" data-title="Project 6" class="zoom d-block">
+                    <img class="card-img-bottom d-block" src="assets/images/x2.jpeg" style="max-height: 372px;"
                          alt="Card image cap">
                     <span class="overlay__hover"></span>
                     <span class="hover-content">
@@ -73,6 +73,140 @@
                         <span class="content">MEP Design and Installation</span>
                     </span>
                 </a>
+            </div>
+
+            <div class="col-lg-4 col-md-6 item mt-4 pt-lg-2">
+                <a href="assets/images/x3.jpeg" data-lightbox="example-set" data-title="Project 6" class="zoom d-block">
+                    <img class="card-img-bottom d-block" src="assets/images/x3.jpeg" style="max-height: 372px;"
+                         alt="Card image cap">
+                    <span class="overlay__hover"></span>
+                    <span class="hover-content">
+                        <span class="title">Project 7</span>
+                        <span class="content">MEP Design and Installation</span>
+                    </span>
+                </a>
+            </div>
+            <!--
+                        <div class="col-lg-4 col-md-6 item mt-4 pt-lg-2">
+                            <a href="assets/images/y1.jpeg" data-lightbox="example-set" data-title="Project 6" class="zoom d-block">
+                                <img class="card-img-bottom d-block" src="assets/images/y1.jpeg" style="max-height: 372px;"
+                                     alt="Card image cap">
+                                <span class="overlay__hover"></span>
+                                <span class="hover-content">
+                                    <span class="title">Project 8</span>
+                                    <span class="content">MEP Design and Installation</span>
+                                </span>
+                            </a>
+                        </div>
+            -->
+            <div class="col-lg-4 col-md-6 item mt-4 pt-lg-2">
+                <a href="assets/images/y2.jpeg" data-lightbox="example-set" data-title="Project 6" class="zoom d-block">
+                    <img class="card-img-bottom d-block" src="assets/images/y2.jpeg" style="max-height: 372px;"
+                         alt="Card image cap">
+                    <span class="overlay__hover"></span>
+                    <span class="hover-content">
+                        <span class="title">Project 9</span>
+                        <span class="content">MEP Design and Installation</span>
+                    </span>
+                </a>
+            </div>
+
+            <div class="col-lg-4 col-md-6 item mt-4 pt-lg-2">
+                <a href="assets/images/y3.jpeg" data-lightbox="example-set" data-title="Project 6" class="zoom d-block">
+                    <img class="card-img-bottom d-block" src="assets/images/y3.jpeg" style="max-height: 372px;"
+                         alt="Card image cap">
+                    <span class="overlay__hover"></span>
+                    <span class="hover-content">
+                        <span class="title">Project 10</span>
+                        <span class="content">MEP Design and Installation</span>
+                    </span>
+                </a>
+            </div>
+            <!--
+                        <div class="col-lg-4 col-md-6 item mt-4 pt-lg-2">
+                            <a href="assets/images/y4.jpeg" data-lightbox="example-set" data-title="Project 6" class="zoom d-block">
+                                <img class="card-img-bottom d-block" src="assets/images/y4.jpeg" style="max-height: 372px;"
+                                     alt="Card image cap">
+                                <span class="overlay__hover"></span>
+                                <span class="hover-content">
+                                    <span class="title">Project 11</span>
+                                    <span class="content">MEP Design and Installation</span>
+                                </span>
+                            </a>
+                        </div>
+            -->
+            <div class="col-lg-4 col-md-6 item mt-4 pt-lg-2">
+                <a href="assets/images/y5.jpeg" data-lightbox="example-set" data-title="Project 6" class="zoom d-block">
+                    <img class="card-img-bottom d-block" src="assets/images/y5.jpeg" style="max-height: 372px;"
+                         alt="Card image cap">
+                    <span class="overlay__hover"></span>
+                    <span class="hover-content">
+                        <span class="title">Project 12</span>
+                        <span class="content">MEP Design and Installation</span>
+                    </span>
+                </a>
+            </div>
+
+            <div class="col-lg-4 col-md-6 item mt-4 pt-lg-2">
+                <a href="assets/images/y6.jpeg" data-lightbox="example-set" data-title="Project 6" class="zoom d-block">
+                    <img class="card-img-bottom d-block" src="assets/images/y6.jpeg" style="max-height: 372px;"
+                         alt="Card image cap">
+                    <span class="overlay__hover"></span>
+                    <span class="hover-content">
+                        <span class="title">Project 13</span>
+                        <span class="content">MEP Design and Installation</span>
+                    </span>
+                </a>
+            </div>
+
+            <div class="col-lg-4 col-md-6 item mt-4 pt-lg-2">
+                <a href="assets/images/y7.jpeg" data-lightbox="example-set" data-title="Project 6" class="zoom d-block">
+                    <img class="card-img-bottom d-block" src="assets/images/y7.jpeg" style="max-height: 372px;"
+                         alt="Card image cap">
+                    <span class="overlay__hover"></span>
+                    <span class="hover-content">
+                        <span class="title">Project 14</span>
+                        <span class="content">MEP Design and Installation</span>
+                    </span>
+                </a>
+            </div>
+
+            <div class="col-lg-4 col-md-6 item mt-4 pt-lg-2">
+                <a href="assets/images/y8.jpeg" data-lightbox="example-set" data-title="Project 6" class="zoom d-block">
+                    <img class="card-img-bottom d-block" src="assets/images/y8.jpeg" style="max-height: 372px;"
+                         alt="Card image cap">
+                    <span class="overlay__hover"></span>
+                    <span class="hover-content">
+                        <span class="title">Project 15</span>
+                        <span class="content">MEP Design and Installation</span>
+                    </span>
+                </a>
+            </div>
+
+            <div class="col-lg-4 col-md-6 item mt-4 pt-lg-2">
+                <a href="assets/images/y9.jpeg" data-lightbox="example-set" data-title="Project 6" class="zoom d-block">
+                    <img class="card-img-bottom d-block" src="assets/images/y9.jpeg" style="max-height: 372px;"
+                         alt="Card image cap">
+                    <span class="overlay__hover"></span>
+                    <span class="hover-content">
+                        <span class="title">Project 16</span>
+                        <span class="content">MEP Design and Installation</span>
+                    </span>
+                </a>
+            </div>
+
+            <div class="col-lg-4 col-md-6 item mt-4 pt-lg-2">
+                <video width="369" height="372" controls>
+                    <source src="assets/videos/video1.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+
+            <div class="col-lg-4 col-md-6 item mt-4 pt-lg-2">
+                <video width="369" height="372" controls>
+                    <source src="assets/videos/video2.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
             </div>
             <!-- <div class="text-center w-100 mt-md-5 mt-4">
                 <a href="#loadmore" class="load btn btn-style btn-outline-primary"> Load More </a>
